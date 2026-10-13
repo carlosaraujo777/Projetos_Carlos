@@ -23,7 +23,7 @@ Analisar vendas por categoria, região, método de pagamento e evolução mensal
 - Pico de vendas em agosto
 
 ## 🖼 Dashboard
-![Dashboard](./painel.png)
+![Painel](./painel.png)
 ## 📂 Estrutura do Projeto
 - `painel do Power BI/portfólio de vendas atualizado.pbix` — arquivo do Power BI
 - `painel.png` — print do dashboard
