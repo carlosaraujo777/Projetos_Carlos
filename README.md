@@ -1,7 +1,11 @@
 # 📊 Portfólio de Projetos — Business Intelligence
 
 Portfólio com projetos de análise de dados usando Python, Pandas e Power BI.
+## 🖼 Painel de Controle
 
+![Painel](painel.png)
+
+---
 ## 🚀 Projetos
 
 ### 🤖 Automação de Análise — Olist E-commerce (Python)
