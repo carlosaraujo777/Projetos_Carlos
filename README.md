@@ -28,7 +28,7 @@ Analisar vendas por categoria, região, método de pagamento e evolução mensal
 
 ## 🖼 Dashboard
 
-![Dashboard](painel.png)
+![Painel](./painel.png)
 
 ## 📂 Estrutura do Projeto
 
