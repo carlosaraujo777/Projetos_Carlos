@@ -23,13 +23,10 @@ Analisar vendas por categoria, região, método de pagamento e evolução mensal
 - Pico de vendas em agosto
 
 ## 🖼 Dashboard
-![Dashboard](./powerbi-dashboard/painel.png)
-
+![Dashboard](./painel.png)
 ## 📂 Estrutura do Projeto
-- `dashboard.pbix` — arquivo do Power BI
-- `dados/ecommerce_sales_analytics_5000.csv` — dataset utilizado
-- `imagens/dashboard.png` — print do dashboard
-
+- `painel do Power BI/portfólio de vendas atualizado.pbix` — arquivo do Power BI
+- `painel.png` — print do dashboard
 ## 🔗 Fonte dos dados
 [Kaggle - Ecommerce sales dataset](https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset)
 
