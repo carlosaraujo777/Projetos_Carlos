@@ -28,8 +28,7 @@ Analisar vendas por categoria, região, método de pagamento e evolução mensal
 
 ## 🖼 Painel de Controle
 
-![Painel](https://raw.githubusercontent.com/carlosaurujo777/portfolio-bi/main/painel.png)
-
+![Painel](https://raw.githubusercontent.com/carlosaurujo777/portfolio-bi/main/dashboard.png)
 ## 📂 Estrutura do Projeto
 
 - `painel.png` — print do dashboard
