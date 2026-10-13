@@ -14,8 +14,8 @@ Analisar vendas por categoria, região, método de pagamento e evolução mensal
 
 ## 📈 KPIs
 
-- Total de Vendas: R$ 182 Mi
-- Ticket Médio: R$ 92 Mil
+- Total de Vendas: R$ 182 milhões
+- Ticket Médio: R$ 92 milhões
 - Quantidade de Pedidos: 2 Mil
 - Média de Dias para Entrega: 6,13
 
@@ -26,17 +26,20 @@ Analisar vendas por categoria, região, método de pagamento e evolução mensal
 - Cartão de crédito é o método de pagamento mais usado (897 pedidos)
 - Pico de vendas em agosto
 
-## 🖼 Dashboard
+## 🖼 Painel de Controle
 
 ![Painel](./painel.png)
 
 ## 📂 Estrutura do Projeto
 
-- `painel do Power BI/portfólio de vendas atualizado.pbix` — arquivo do Power BI
 - `painel.png` — print do dashboard
+- `portfólio de vendas atualizado.pbix` — arquivo do Power BI
+- `python-automacao/` — script Python de ETL e automação
+- `python-automacao/olist_tratado.py` — código principal
+- `python-automacao/analises_olist.xlsx` — saída com 4 abas
 
 ## 🔗 Fonte dos dados
 
 [Kaggle - Ecommerce Sales Dataset](https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset)
 
-> Observação: os dados são sintéticos, disponibilizados publicamente no Kaggle para fins de estudo e prática.
+> Os dados são sintéticos, disponibilizados publicamente no Kaggle para fins de estudo e prática.
