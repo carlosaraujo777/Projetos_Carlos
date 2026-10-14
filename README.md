@@ -34,7 +34,7 @@ Script em Python que lê 5 CSVs, faz merge das tabelas, gera 4 análises de neg�
 - **Tecnologia em Agrocomputação** — FATEC Cuiabá (concluído)
 - **Power BI Avançado com IA** — Senac Quantum (em andamento)
 - **Pacote Office Avançado** — foco em Excel para análise de dados
-- **Inglês** — conversação intermediária
+- **Inglês** — conversação Avançada
 
 ## 💼 Experiência
 
