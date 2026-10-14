@@ -1,6 +1,6 @@
 # 📊 Portfólio de Análise de Dados
 
-Portfólio com projetos práticos de análise de dados, automação e Business Intelligence.
+Portfólio de Análise de Dados
 
 ## 👤 Sobre mim
 
