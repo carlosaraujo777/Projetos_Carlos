@@ -46,4 +46,4 @@ Script em Python que lê 5 CSVs, faz merge das tabelas, gera 4 análises de neg�
 ## 🔗 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-araujo-852b5b277/)
-- 🐙 [GitHub](https://github.com/carlosaurujo777)
+- 🐙 [GitHub](https://github.com/carlosaraujo777)
