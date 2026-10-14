@@ -1,31 +1,26 @@
-# 🤖 Automação de Análise — Olist E-commerce
+🤖 Automação com Python
+Sobre
+Script em Python que lê 5 arquivos CSV do dataset público do Olist (e-commerce brasileiro), faz a reserva das tabelas, gera análises e salva no Excel — tudo automaticamente .
 
-Pipeline em Python que lê, trata e consolida 5 CSVs do dataset público da Olist, gera análises de negócio e exporta para Excel — rodando automaticamente todos os dias.
+🛠 Tecnologias
+Python 3
+Pandas
+Agendador de Tarefas do Windows
+📊 O que ele faz
+Lê 5 CSVs (pedidos, clientes, itens, produtos, pagamentos)
+Juntar todas as tabelas em uma só (merge)
+Gera 4 análises:
+Top 10 categorias que mais vendem
+Top 10 estados que mais compram
+Vendas por mês
+Formas de balanceamento
+Salvar tudo no Excel com 4 abas
+⏰ Como roda
+O script está agendado no Agendador de Tarefas do Windows e roda automaticamente todos os dias às 08:00 .
 
-## 🎯 Objetivo
-Automatizar um fluxo de ETL que antes seria manual, entregando análises prontas em Excel sem intervenção humana.
-
-## 🛠 Stack
-- Python 3
-- Pandas
-- Agendador de Tarefas do Windows
-
-## ⚙️ Pipeline
-5 CSVs → merge → tratamento de datas → 4 análises → Excel (4 abas)
-
-## 📊 Análises geradas
-1. Top 10 categorias que mais vendem
-2. Top 10 estados que mais compram
-3. Vendas por mês
-4. Formas de pagamento
-
-## ⏰ Automação
-Script agendado no Agendador de Tarefas do Windows, executando diariamente às 08:00.
-
-## 📂 Arquivos
-- `olist_tratado.py` — script principal
-- `rodar_olist.bat` — execução agendada
-- `analises_olist.xlsx` — saída (4 abas)
-
-## 🔗 Fonte
-Kaggle — Brazilian E-Commerce Public Dataset by Olist
+📂 Arquivos
+olist_tratado.py— script Python
+rodar_olist.bat— arquivo de execução
+analises_olist.xlsx— resultado gerado (4 abas)
+🔗 Fonte dos dados
+Kaggle - Conjunto de dados públicos de comércio eletrônico brasileiro por Olist
