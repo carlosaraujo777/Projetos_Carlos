@@ -34,14 +34,14 @@ Script em Python que lê 5 CSVs, faz merge das tabelas, gera 4 análises de neg�
 - **Tecnologia em Agrocomputação** — FATEC Cuiabá (concluído)
 - **Power BI Avançado com IA** — Senac Quantum (em andamento)
 - **Pacote Office Avançado** — foco em Excel para análise de dados
-- **Inglês** — conversação Avançada
+- **Inglês** — Conversação Avançada
 
 ## 💼 Experiência
 
-- **SEAF – Secretaria de Agricultura Familiar** — Análise de dados e sistemas
-- **MAPA – Ministério da Agricultura e Pecuária** — Estágio em rotinas administrativas e dados (2023–2024)
-- **Hospital Amecor** — Suporte Técnico de TI (2024)
-- **Agropecuária Scheffer** — Menor Aprendiz (2021–2023)
+- **SEAF – Secretaria de Agricultura Familiar** — Análise de dados e sistemas (2025-26)
+- **MAPA – Ministério da Agricultura e Pecuária** — Estágio em rotinas administrativas e dados (2023–24)
+- **Hospital Amecor** — Suporte Técnico de TI (2025)
+- **Agropecuária Scheffer** — Menor Aprendiz (2021–23)
 
 ## 🔗 Contato
 
