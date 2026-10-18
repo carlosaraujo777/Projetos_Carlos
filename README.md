@@ -29,6 +29,7 @@ Dashboard com análise de vendas por categoria, região, método de pagamento e 
 Script em Python que lê 5 CSVs, faz merge das tabelas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
 **Ferramentas:** 
 Python, Pandas, Agendador do Windows
+site criado usando python e vs code: https://projetoscarlos-yxbrnjlnjh7oakjngspqwz.streamlit.app/
 
 ## 🎓 Formação
 
