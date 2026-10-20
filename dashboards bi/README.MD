@@ -26,9 +26,9 @@ Analisar vendas por categoria, região, método de pagamento e evolução mensal
 ![Dashboard](Painel.png)
 
 ## 📂 Estrutura do Projeto
-- `dashboard.pbix` — arquivo do Power BI
+- `portfolio vendas atualizado.pbix` — arquivo do Power BI
 - `dados/ecommerce_sales_analytics_5000.csv` — dataset utilizado
-- `imagens/dashboard.png` — print do dashboard
+- `imagens/Painel.png` — print do dashboard
 
 ## 🔗 Fonte dos dados
 [Kaggle - Ecommerce sales dataset](https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset)
