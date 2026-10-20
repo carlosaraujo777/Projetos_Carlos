@@ -1,7 +1,5 @@
 # 📊 Portfólio de Análise de Dados
 
-
-
 ## 👤 Sobre mim
 
 Sou **Carlos Alexandre**, formado em **Agrocomputação** (FATEC Cuiabá), com experiência em análise de dados, Power BI, suporte técnico e rotinas administrativas.
@@ -27,9 +25,11 @@ Dashboard com análise de vendas por categoria, região, método de pagamento e 
 
 ### 🤖 [Automação Python — Olist](./python-automacao)
 Script em Python que lê 5 CSVs, faz merge das tabelas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
-**Ferramentas:** 
-Python, Pandas, Agendador do Windows
-site criado usando python e vs code: https://projetoscarlos-yxbrnjlnjh7oakjngspqwz.streamlit.app/
+**Ferramentas:** Python, Pandas, Agendador do Windows
+
+### 🌐 [Aplicação Web Interativa — Streamlit](https://projetoscarlos-yxbrnjlnjh7oakjngspqwz.streamlit.app/)
+Aplicação web criada em Python para visualização e interação com dados, hospedada no Streamlit Cloud.
+**Ferramentas:** Python, Streamlit, VS Code
 
 ## 🎓 Formação
 
@@ -40,12 +40,12 @@ site criado usando python e vs code: https://projetoscarlos-yxbrnjlnjh7oakjngspq
 
 ## 💼 Experiência
 
-- **SEAF – Secretaria de Agricultura Familiar** — Análise de dados e sistemas (2025-26)
-- **MAPA – Ministério da Agricultura e Pecuária** — Estágio em rotinas administrativas e dados (2023–24)
+- **SEAF – Secretaria de Agricultura Familiar** — Análise de dados e sistemas (2025–2026)
+- **MAPA – Ministério da Agricultura e Pecuária** — Estágio em rotinas administrativas e dados (2023–2024)
 - **Hospital Amecor** — Suporte Técnico de TI (2025)
-- **Agropecuária Scheffer** — Menor Aprendiz (2021–23)
+- **Agropecuária Scheffer** — Menor Aprendiz (2021–2023)
 
 ## 🔗 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-araujo-852b5b277/)
-- 🐙 [GitHub](https://github.com/carlosaraujo777)
+- 🐙 [GitHub](https://github.com/carlosaurujo777)
