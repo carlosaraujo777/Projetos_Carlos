@@ -27,10 +27,9 @@ Dashboard com análise de vendas por categoria, região, método de pagamento e 
 Script em Python que lê 5 CSVs, faz merge das tabelas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
 **Ferramentas:** Python, Pandas, Agendador do Windows
 
-### 🌐 [Aplicação Web Interativa — Streamlit](https://projetoscarlos-yxbrnjlnjh7oakjngspqwz.streamlit.app/)
-Aplicação web criada em Python para visualização e interação com dados, hospedada no Streamlit Cloud.
-**Ferramentas:** Python, Streamlit, VS Code
-
+### 🔐 [App Gerador de Senhas — Streamlit](./app-gerador-senhas)
+Aplicação web interativa para gerar senhas seguras, com controles de tamanho, números e símbolos.
+**Ferramentas:** Python, Streamlit
 ## 🎓 Formação
 
 - **Tecnologia em Agrocomputação** — FATEC Cuiabá (concluído)
