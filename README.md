@@ -27,9 +27,9 @@ Dashboard com análise de vendas por categoria, região, método de pagamento e 
 Script em Python que lê 5 CSVs, faz merge das tabelas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
 **Ferramentas:** Python, Pandas, Agendador do Windows
 
-### 🔐 [App Gerador de Senhas — Streamlit](./app-senhas-seguras)
+### 🔐 [App Gerador de Senhas — Streamlit](https://app-senhas-seguras.streamlit.app/)) 
 Aplicação web interativa para gerar senhas seguras, com controles de tamanho, números e símbolos.
-**Ferramentas:** Python, Streamlit
+**Ferramentas:** Python, Streamlit | **Código:** [Ver aqui](./app-gerador-senhas)
 ## 🎓 Formação
 
 - **Tecnologia em Agrocomputação** — FATEC Cuiabá (concluído)
