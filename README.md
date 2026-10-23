@@ -1,35 +1,42 @@
-# 📊 Portfólio de Análise de Dados
+# 📊 Portfólio de Análise de Dados e Desenvolvimento
 
 ## 👤 Sobre mim
 
-Sou **Carlos Alexandre**, formado em **Agrocomputação** (FATEC Cuiabá), com experiência em análise de dados, Power BI, suporte técnico e rotinas administrativas.
+Sou **Carlos Alexandre**, formado em **Agrocomputação** (FATEC Cuiabá), com experiência em análise de dados, desenvolvimento e automação. 
 
-Atuei em ambientes públicos, corporativos e hospitalares, sempre envolvido com **organização de dados, sistemas internos e criação de dashboards**. Perfil analítico, organizado e com facilidade para aprender novas tecnologias.
+Atuo unindo a lógica de programação (Python, Web) com a inteligência de negócios (Power BI, SQL). Já atuei em ambientes públicos, corporativos e hospitalares, sempre focado em **organização de dados, sistemas internos e criação de dashboards**. Sou um profissional analítico, organizado e movido por desafios técnicos.
 
-🎯 **Buscando oportunidade como Analista de Dados Júnior/Pleno.**
+🎯 **Buscando oportunidades como Analista de Dados Júnior/Pleno ou Desenvolvedor Júnior (Remoto).**
+
+🌐 **[Acesse meu Portfólio Web Interativo](https://carlosaraujo777.github.io/Projetos_Carlos/site-portfolio/)**
 
 ## 🛠 Tecnologias e Competências
 
-- **Análise de Dados:** Python, Pandas, Excel Avançado
+- **Análise de Dados:** Python (Pandas), Excel Avançado
 - **Business Intelligence:** Power BI, Power Query, DAX
+- **Desenvolvimento Web:** HTML5, CSS3, JavaScript
 - **Banco de Dados:** SQL (em aprendizado), modelagem de dados
-- **Automação:** Agendador de Tarefas do Windows
-- **Versionamento:** Git, GitHub
-- **Outros:** Suporte técnico de TI, sistemas corporativos
+- **Automação e Apps:** Streamlit, Agendador de Tarefas do Windows
+- **Versionamento e Deploy:** Git, GitHub, GitHub Pages
 
-## 📂 Projetos
+## 📂 Projetos em Destaque
 
-### 📈 [Dashboard de E-commerce — Power BI](./dashboards%20bi)
-Dashboard com análise de vendas por categoria, região, método de pagamento e evolução mensal.
-**Ferramentas:** Power BI, Power Query, DAX
+### 🛒 [Loja E-commerce — Streamlit](./app-loja) *(Link para a pasta do código)*
+Aplicação web completa com catálogo de produtos, carrinho de compras, cálculo de frete, fluxo de pagamento e persistência de dados gerados automaticamente em arquivo CSV.
+**Ferramentas:** Python, Streamlit, Pandas
+
+### 🌐 [Site Portfólio — HTML/CSS/JS](./site-portfolio)
+Site pessoal com design dark, construído do zero. Inclui uma versão em JavaScript puro de um gerador de senhas, com carregamento instantâneo e sem dependência de servidor.
+**Ferramentas:** HTML, CSS, JavaScript, GitHub Pages
 
 ### 🤖 [Automação Python — Olist](./python-automacao)
-Script em Python que lê 5 CSVs, faz merge das tabelas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
+Script em Python que lê 5 CSVs, faz merge das tabelas, trata datas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
 **Ferramentas:** Python, Pandas, Agendador do Windows
 
-### 🔐 [App Gerador de Senhas — Streamlit](https://app-senhas-seguras.streamlit.app/)
-Aplicação web interativa para gerar senhas seguras, com controles de tamanho, números e símbolos.
-**Ferramentas:** Python, Streamlit.
+### 📈 [Dashboard de E-commerce — Power BI](./dashboards%20bi)
+Dashboard com análise de vendas por categoria, região, método de pagamento e evolução mensal, com KPIs e insights.
+**Ferramentas:** Power BI, Power Query, DAX
+
 ## 🎓 Formação
 
 - **Tecnologia em Agrocomputação** — FATEC Cuiabá (concluído)
@@ -47,4 +54,5 @@ Aplicação web interativa para gerar senhas seguras, com controles de tamanho, 
 ## 🔗 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-araujo-852b5b277/)
-- 🐙 [GitHub](https://github.com/carlosaurujo777)
+- 🐙 [GitHub](https://github.com/carlosaraujo777)
+- 🌐 [Portfólio Web](https://carlosaraujo777.github.io/Projetos_Carlos/site-portfolio/)
