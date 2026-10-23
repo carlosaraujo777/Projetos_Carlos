@@ -8,7 +8,7 @@ Atuo unindo a lógica de programação (Python, Web) com a inteligência de neg�
 
 🎯 **Buscando oportunidades como Analista de Dados Júnior/Pleno ou Desenvolvedor Júnior (Remoto).**
 
-🌐 **[Acesse meu Portfólio Web Interativo](https://carlosaraujo777.github.io/Projetos_Carlos/site-portfolio/)**
+🌐 **[Acesse meu Portfólio Web Interativo]([https://carlosaraujo777.github.io/Projetos_Carlos/site-portfolio/)
 
 ## 🛠 Tecnologias e Competências
 
