@@ -1,0 +1,113 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #0d1117; /* Fundo escuro estilo GitHub */
+    color: #c9d1d9; /* Texto cinza claro */
+    line-height: 1.6;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #30363d;
+    padding-bottom: 30px;
+}
+
+h1 {
+    color: #58a6ff; /* Azul destaque */
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #f4f7fa;
+}
+
+h2 {
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
+
+.project-list {
+    list-style: none;
+}
+
+.project-list li {
+    background-color: #141915; /* Fundo dos cards */
+    border: 1px solid #393c40;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 15px;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.project-list li:hover {
+    transform: translateY(-3px);
+    border-color: #0558ff; /* Borda acende no hover */
+}
+
+.project-list a {
+    color: #58a6ff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.project-list a:hover {
+    text-decoration: underline;
+}
+
+.project-desc {
+    font-size: 0.9rem;
+    color: #fafcfe;
+}
+/* Estilo para a caixa da senha */
+.senha-box {
+    background-color: #161b22;
+    border: 1px solid #58a6ff;
+    border-radius: 8px;
+    padding: 20px;
+    font-size: 1.5rem;
+    font-family: monospace;
+    color: #58a6ff;
+    margin-bottom: 20px;
+    word-break: break-all;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilo do botão */
+.btn-gerar {
+    background-color: #238636;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1.1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.btn-gerar:hover {
+    background-color: #2ea043;
+}
