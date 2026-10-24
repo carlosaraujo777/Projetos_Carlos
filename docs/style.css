@@ -84,7 +84,7 @@ h2 {
     color: #8b949e;
 }
 /* Estilo do botão gerador */
-.btn-gerar {
+btn-gerar {
     background-color: #238636;
     color: white;
     border: none;
