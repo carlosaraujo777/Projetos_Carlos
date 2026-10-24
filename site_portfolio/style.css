@@ -1,0 +1,116 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    /* Fundo com a imagem */
+    background-image: url('fundo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #050a14; /* Cor de segurança caso a imagem falhe */
+    
+    color: #c9d1d9;
+    line-height: 1.6;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* A CAMADA ESCURA (O pulo do gato) */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Escurece a imagem pra dar contraste ao texto (0.8 = 80% escuro) */
+    background-color: rgba(5, 10, 20, 0.85); 
+    z-index: -1; /* Joga a camada pra trás do texto */
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #30363d;
+    padding-bottom: 30px;
+}
+
+h1 {
+    color: #58a6ff;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
+
+.project-list {
+    list-style: none;
+}
+
+.project-list li {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 15px;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.project-list li:hover {
+    transform: translateY(-3px);
+    border-color: #58a6ff;
+}
+
+.project-list a {
+    color: #58a6ff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.project-list a:hover {
+    text-decoration: underline;
+}
+
+.project-desc {
+    font-size: 0.9rem;
+    color: #8b949e;
+}
+/* Estilo do botão gerador */
+.btn-gerar {
+    background-color: #238636;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1.1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-gerar:hover {
+    background-color: #2ea043;
+}
