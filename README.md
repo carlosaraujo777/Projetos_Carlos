@@ -28,7 +28,7 @@ Terminal interativo com visual do filme Matrix. Possui chuva de código no fundo
 Aplicação web completa com catálogo de produtos, carrinho de compras, fluxo de pagamento e persistência de dados gerados automaticamente em arquivo CSV.
 **Ferramentas:** Python, Streamlit, Pandas
 
-### 🌐 [Site Portfólio — HTML/CSS/JS](https://carlosaraujo777.github.io/Projetos_Carlos/))
+### 🌐 [Site Portfólio — HTML/CSS/JS](https://carlosaraujo777.github.io/Projetos_Carlos/)
 Site pessoal com design dark, construído do zero. Inclui uma versão em JavaScript puro de um gerador de senhas, com carregamento instantâneo e sem dependência de servidor.
 **Ferramentas:** HTML, CSS, JavaScript, GitHub Pages
 
