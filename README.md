@@ -19,6 +19,9 @@ Atuo unindo a lógica de programação (Python, Web) com a inteligência de neg�
 - **Versionamento e Deploy:** Git, GitHub, GitHub Pages
 
 ## 📂 Projetos em Destaque
+### 🚚 [LogiAgro — Marketplace de Frete Agrícola](https://carlosaraujo777.github.io/logiagro/)
+Plataforma (MVP) que conecta produtores rurais e caminhoneiros para otimizar o escoamento de safras e reduzir fretes vazios.
+**Ferramentas:** HTML, CSS, JavaScript, LocalStorage
 
 ### 🌱 [AgroSim — Simulador de Margem Agrícola](https://carlosaraujo777.github.io/agrosim/)
 Dashboard interativo que simula a margem de lucro de uma safra. O usuário insere o custo de produção, a produtividade e o preço da saca, e o sistema calcula a receita bruta e o lucro (ou prejuízo), exibindo os dados em um gráfico dinâmico.
