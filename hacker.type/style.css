@@ -1,0 +1,65 @@
+body {
+    background-color: #000;
+    color: #0F0;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 20px;
+    height: 100vh;
+    text-shadow: 0 0 5px #0F0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* Evita barras de rolagem duplas */
+}
+
+/* O Canvas fica fixo no fundo */
+#matrix-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Joga pra trás de tudo */
+    opacity: 0.4; /* Deixa a chuva mais sutil pra não ofuscar o texto */
+}
+
+.terminal {
+    flex: 1;
+    overflow-y: auto;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    z-index: 1; /* Fica na frente do canvas */
+}
+
+/* Esconde a barra de rolagem pra ficar mais limpo */
+.terminal::-webkit-scrollbar { display: none; }
+
+#output p {
+    margin: 5px 0;
+}
+
+.input-line {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    z-index: 1;
+}
+
+.prompt {
+    margin-right: 10px;
+    color: #0F0;
+}
+
+#command-input {
+    background: transparent;
+    border: none;
+    color: #0F0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+    outline: none;
+    flex: 1;
+    text-shadow: 0 0 5px #0F0;
+}
+html, body {
+    overflow: hidden; /* Impede a página inteira de rolar */
+    height: 100vh;    /* Fixa a altura da tela */
+}
