@@ -20,7 +20,7 @@ Atuo unindo a lógica de programação (Python, Web) com a inteligência de neg�
 
 ## 📂 Projetos em Destaque
 
-### 🟢 [Terminal Matrix — Hacker Typer](./hacker.type)
+### 🟢 [Terminal Matrix — Hacker Typer](https://carlosaraujo777.github.io/terminal-matrix/)
 Terminal interativo com visual do filme Matrix. Possui chuva de código no fundo (Canvas API) e comandos falsos em inglês como `help`, `whoami`, `matrix` e `hack`.
 **Ferramentas:** HTML, CSS, JavaScript (Canvas API)
 
