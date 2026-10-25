@@ -24,10 +24,6 @@ Atuo unindo a lógica de programação (Python, Web) com a inteligência de neg�
 Terminal interativo com visual do filme Matrix. Possui chuva de código no fundo (Canvas API) e comandos falsos em inglês como `help`, `whoami`, `matrix` e `hack`.
 **Ferramentas:** HTML, CSS, JavaScript (Canvas API)
 
-### 🛒 [Loja E-commerce — Streamlit]
-Aplicação web completa com catálogo de produtos, carrinho de compras, fluxo de pagamento e persistência de dados gerados automaticamente em arquivo CSV.
-**Ferramentas:** Python, Streamlit, Pandas
-
 ### 🌐 [Site Portfólio — HTML/CSS/JS](https://carlosaraujo777.github.io/Projetos_Carlos/)
 Site pessoal com design dark, construído do zero. Inclui uma versão em JavaScript puro de um gerador de senhas, com carregamento instantâneo e sem dependência de servidor.
 **Ferramentas:** HTML, CSS, JavaScript, GitHub Pages
