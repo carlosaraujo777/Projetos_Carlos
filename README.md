@@ -12,13 +12,18 @@ Atuo unindo a lógica de programação (Python, Web) com a inteligência de neg�
 
 ## 🛠 Tecnologias e Competências
 
-- **Análise de Dados:** Python (Pandas), Excel Avançado
-- **Business Intelligence:** Power BI, Power Query, DAX, SQL
-- **Desenvolvimento Web:** HTML5, CSS3, JavaScript
-- **Automação e Apps:** Streamlit, Agendador de Tarefas do Windows
+- **Análise de Dados:** Python (Pandas), SQL (PostgreSQL, SQLite), Excel Avançado
+- **Business Intelligence:** Power BI, Power Query, DAX
+- **Desenvolvimento Web:** HTML5, CSS3, JavaScript (ES6+)
+- **Automação e Apps:** Streamlit, Agendador de Tarefas do Windows, APIs (Google Gemini)
 - **Versionamento e Deploy:** Git, GitHub, GitHub Pages
 
 ## 📂 Projetos em Destaque
+
+### 🤖 [AgroIA — Assistente Agrícola com IA](https://agro-ia-web-6s88vhurtwd3uqjefegxit.streamlit.app/)
+Chat interativo focado no agronegócio, integrado com a API do Google Gemini (IA). Interface customizada em Streamlit com design dark e respostas em tempo real.
+**Ferramentas:** Python, Streamlit, Google Gemini API
+
 ### 🚚 [LogiAgro — Marketplace de Frete Agrícola](https://carlosaraujo777.github.io/logiagro/)
 Plataforma (MVP) que conecta produtores rurais e caminhoneiros para otimizar o escoamento de safras e reduzir fretes vazios.
 **Ferramentas:** HTML, CSS, JavaScript, LocalStorage
@@ -31,12 +36,8 @@ Dashboard interativo que simula a margem de lucro de uma safra. O usuário inser
 Terminal interativo com visual do filme Matrix. Possui chuva de código no fundo (Canvas API) e comandos falsos em inglês como `help`, `whoami`, `matrix` e `hack`.
 **Ferramentas:** HTML, CSS, JavaScript (Canvas API)
 
-### 🌐 [Site Portfólio — HTML/CSS/JS](https://carlosaraujo777.github.io/Projetos_Carlos/)
-Site pessoal com design dark, construído do zero. Inclui uma versão em JavaScript puro de um gerador de senhas, com carregamento instantâneo e sem dependência de servidor.
-**Ferramentas:** HTML, CSS, JavaScript, GitHub Pages
-
-### 🤖 [Automação Python — Olist](./python-automacao)
-Script em Python que lê 5 CSVs, faz merge das tabelas, trata datas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
+### 🤖 [Pipeline ETL — Automação Olist](./python-automacao)
+Script em Python que lê 5 arquivos CSVs, faz merge das tabelas, trata datas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
 **Ferramentas:** Python, Pandas, Agendador do Windows
 
 ### 📈 [Dashboard de E-commerce — Power BI](./dashboards%20bi)
