@@ -55,7 +55,6 @@ Dashboard com análise de vendas por categoria, região, método de pagamento e 
 
 - **SEAF – Secretaria de Agricultura Familiar** — Análise de dados e sistemas (2025–2026)
 - **MAPA – Ministério da Agricultura e Pecuária** — Estágio em rotinas administrativas e dados (2023–2024)
-- **Hospital Amecor** — Suporte Técnico de TI (2025)
 - **Agropecuária Scheffer** — Menor Aprendiz (2021–2023)
 
 ## 🔗 Contato
