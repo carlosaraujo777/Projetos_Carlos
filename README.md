@@ -1,64 +1,72 @@
-# 📊 Portfólio de Análise de Dados e Desenvolvimento
+# 👋 E aí, eu sou o Carlos Alexandre!
 
-## 👤 Sobre mim
+Sou desenvolvedor focado em **Análise de Dados e Desenvolvimento Web**, formado em Agrocomputação (FATEC Cuiabá). 
 
-Sou **Carlos Alexandre**, formado em **Agrocomputação** (FATEC Cuiabá), com experiência em análise de dados, desenvolvimento e automação.
+Atuo unindo a lógica de programação (Python, Web) com a inteligência de negócios (Power BI, SQL). Já passei por ambientes públicos, corporativos e hospitalares, sempre focado em organização de dados, sistemas internos e criação de dashboards.
 
-Atuo unindo a lógica de programação (Python, Web) com a inteligência de negócios (Power BI, SQL). Já atuei em ambientes públicos, corporativos e hospitalares, sempre focado em **organização de dados, sistemas internos e criação de dashboards**. Sou um profissional analítico, organizado e movido por desafios técnicos.
+Tenho AuDHD e uma mente que não para de criar. Quando não estou resolvendo problemas de dados, estou construindo interfaces interativas e brincando com a cultura hacker.
 
-🎯 **Buscando oportunidades como Analista de Dados Júnior/Pleno ou Desenvolvedor Júnior (Remoto).**
+- 🎯 **Buscando:** Oportunidades como Analista de Dados Júnior/Pleno ou Desenvolvedor Júnior (Remoto).
+- 🌱 **Estudando agora:** Estruturas de dados, React (futuramente) e Indie Hacking.
+- ⚡ **Curiosidade:** Meu hiperfoco já me fez criar um portfólio inteiro em formato de terminal do Matrix do zero.
 
-🌐 **[Acesse meu Portfólio Web Interativo](https://carlosaraujo777.github.io/Projetos_Carlos/)**
+## 🛠️ Tecnologias e Competências
 
-## 🛠 Tecnologias e Competências
+**Análise de Dados & BI:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- **Análise de Dados:** Python (Pandas), SQL (PostgreSQL, SQLite), Excel Avançado
-- **Business Intelligence:** Power BI, Power Query, DAX
-- **Desenvolvimento Web:** HTML5, CSS3, JavaScript (ES6+)
-- **Automação e Apps:** Streamlit, Agendador de Tarefas do Windows, APIs (Google Gemini)
-- **Versionamento e Deploy:** Git, GitHub, GitHub Pages
+**Desenvolvimento & Web:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## 📂 Projetos em Destaque
+**Ferramentas:**
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🤖 [AgroIA — Assistente Agrícola com IA](https://agro-ia-web-6s88vhurtwd3uqjefegxit.streamlit.app/)
-Chat interativo focado no agronegócio, integrado com a API do Google Gemini (IA). Interface customizada em Streamlit com design dark e respostas em tempo real.
-**Ferramentas:** Python, Streamlit, Google Gemini API
+---
 
-### 🚚 [LogiAgro — Marketplace de Frete Agrícola](https://carlosaraujo777.github.io/logiagro/)
-Plataforma (MVP) que conecta produtores rurais e caminhoneiros para otimizar o escoamento de safras e reduzir fretes vazios.
-**Ferramentas:** HTML, CSS, JavaScript, LocalStorage
+## 🚀 Meus Projetos em Destaque
 
-### 🌱 [AgroSim — Simulador de Margem Agrícola](https://carlosaraujo777.github.io/agrosim/)
-Dashboard interativo que simula a margem de lucro de uma safra. O usuário insere o custo de produção, a produtividade e o preço da saca, e o sistema calcula a receita bruta e o lucro (ou prejuízo), exibindo os dados em um gráfico dinâmico.
-**Ferramentas:** HTML, CSS, JavaScript, Chart.js
+### 🟢 [Matrix OS](https://carlosaraujo777.github.io/matrix-portfolio/)
+Portfólio interativo construído do zero com Vanilla JS. Possui chuva de código (Canvas API), escolha de pílulas (vermelha/azul) e um terminal com comandos reais, autocomplete e histórico.
+*Tech: HTML, CSS, JavaScript, Canvas API.*
 
-### 🟢 [Terminal Matrix — Hacker Typer](https://carlosaraujo777.github.io/terminal-matrix/)
-Terminal interativo com visual do filme Matrix. Possui chuva de código no fundo (Canvas API) e comandos falsos em inglês como `help`, `whoami`, `matrix` e `hack`.
-**Ferramentas:** HTML, CSS, JavaScript (Canvas API)
+### 🖥️ [System Terminal (Fake Hacker CTF)](https://carlosaraujo777.github.io/system-terminal/)
+Simulador de terminal hacker com 3 missões lógicas, efeitos sonoros gerados via Web Audio API e uma trolagem clássica de carregamento que trava no 99%.
+*Tech: HTML, CSS, JavaScript.*
 
-### 🤖 [Pipeline ETL — Automação Olist](./python-automacao)
-Script em Python que lê 5 arquivos CSVs, faz merge das tabelas, trata datas, gera 4 análises de negócio e exporta em Excel — rodando automaticamente todos os dias às 08:00.
-**Ferramentas:** Python, Pandas, Agendador do Windows
+### 🌱 [AgroConnect](#) *(Adicione o link se estiver no ar)*
+Plataforma Full Stack que conecta produtores rurais e caminhoneiros.
+*Tech: FastAPI, SQLite, HTML, JavaScript, Deploy no Render e Vercel.*
 
-### 📈 [Dashboard de E-commerce — Power BI](./dashboards%20bi)
+### 📈 Dashboard de E-commerce (Power BI)
 Dashboard com análise de vendas por categoria, região, método de pagamento e evolução mensal, com KPIs e insights.
-**Ferramentas:** Power BI, Power Query, DAX
+*Tech: Power BI, Power Query, DAX.*
 
-## 🎓 Formação
-
-- **Tecnologia em Agrocomputação** — FATEC Cuiabá (concluído)
-- **Power BI Avançado com IA** — Senac Quantum (em andamento)
-- **Pacote Office Avançado** — foco em Excel para análise de dados
-- **Inglês** — Conversação Avançada
+---
 
 ## 💼 Experiência
-
 - **SEAF – Secretaria de Agricultura Familiar** — Análise de dados e sistemas (2025–2026)
 - **MAPA – Ministério da Agricultura e Pecuária** — Estágio em rotinas administrativas e dados (2023–2024)
 - **Agropecuária Scheffer** — Menor Aprendiz (2021–2023)
 
-## 🔗 Contato
+## 🎓 Formação
+- **Tecnologia em Agrocomputação** — FATEC Cuiabá (Concluído)
+- **Power BI Avançado com IA** — Senac Quantum (Em andamento)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-araujo-852b5b277/)
-- 🐙 [GitHub](https://github.com/carlosaraujo777)
-- 🌐 [Portfólio Web](https://carlosaraujo777.github.io/Projetos_Carlos/)
+---
+
+## 🔗 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosaraujo777/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosaraujo777)
+
+---
+*"Eu vou vencer, nem que seja um segundo de cada vez."* 🚀
