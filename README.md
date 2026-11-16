@@ -47,7 +47,7 @@ Simulador de terminal hacker com 3 missões lógicas, efeitos sonoros gerados vi
 Plataforma Full Stack que conecta produtores rurais e caminhoneiros.
 *Tech: FastAPI, SQLite, HTML, JavaScript, Deploy no Render e Vercel.*
 
-### 📈 Dashboard de E-commerce (Power BI)
+### 📈 Dashboard de E-commerce (Power BI) [painel.png]
 Dashboard com análise de vendas por categoria, região, método de pagamento e evolução mensal, com KPIs e insights.
 *Tech: Power BI, Power Query, DAX.*
 
