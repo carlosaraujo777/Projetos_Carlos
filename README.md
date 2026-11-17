@@ -43,10 +43,6 @@ Portfólio interativo construído do zero com Vanilla JS. Possui chuva de códig
 Simulador de terminal hacker com 3 missões lógicas, efeitos sonoros gerados via Web Audio API e uma trolagem clássica de carregamento que trava no 99%.
 *Tech: HTML, CSS, JavaScript.*
 
-### 🌱 [AgroConnect](#) *(Adicione o link se estiver no ar)*
-Plataforma Full Stack que conecta produtores rurais e caminhoneiros.
-*Tech: FastAPI, SQLite, HTML, JavaScript, Deploy no Render e Vercel.*
-
 ### 📈 Dashboard de E-commerce (Power BI)
 Dashboard com análise de vendas por categoria, região, método de pagamento e evolução mensal, com KPIs e insights.
 *Tech: Power BI, Power Query, DAX.*
