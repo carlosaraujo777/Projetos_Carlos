@@ -51,6 +51,9 @@ Plataforma Full Stack que conecta produtores rurais e caminhoneiros.
 Dashboard com análise de vendas por categoria, região, método de pagamento e evolução mensal, com KPIs e insights.
 *Tech: Power BI, Power Query, DAX.*
 
+## 🖼 Dashboard
+![Dashboard](Painel.png)
+
 ---
 
 ## 💼 Experiência
