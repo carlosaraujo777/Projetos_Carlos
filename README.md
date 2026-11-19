@@ -4,7 +4,7 @@ Sou desenvolvedor focado em **Análise de Dados e Desenvolvimento Web**, formado
 
 Atuo unindo a lógica de programação (Python, Web) com a inteligência de negócios (Power BI, SQL). Já passei por ambientes públicos, corporativos e hospitalares, sempre focado em organização de dados, sistemas internos e criação de dashboards.
 
-Tenho AuDHD e uma mente que não para de criar. Quando não estou resolvendo problemas de dados, estou construindo interfaces interativas e brincando com a cultura hacker.
+Tenho uma mente curiosa, gosto de experimentar tecnologias e transformar ideias em projetos funcionais. Quando não estou resolvendo problemas de dados, estou construindo interfaces interativas e brincando com a cultura hacker.
 
 - 🎯 **Buscando:** Oportunidades como Analista de Dados Júnior/Pleno ou Desenvolvedor Júnior (Remoto).
 - 🌱 **Estudando agora:** Estruturas de dados, React (futuramente) e Indie Hacking.
