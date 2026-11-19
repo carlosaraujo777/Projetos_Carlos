@@ -1,6 +1,6 @@
 # 👋 E aí, eu sou o Carlos Alexandre!
 
-Sou desenvolvedor focado em **Análise de Dados e Desenvolvimento Web**, formado em Agrocomputação (FATEC Cuiabá). 
+Buscando oportunidades como Analista de Dados Júnior ou Desenvolvedor Web Júnior, preferencialmente remoto.
 
 Atuo unindo a lógica de programação (Python, Web) com a inteligência de negócios (Power BI, SQL). Já passei por ambientes públicos, corporativos e hospitalares, sempre focado em organização de dados, sistemas internos e criação de dashboards.
 
